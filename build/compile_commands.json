@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/35340/Desktop/x-lab/my_project/huangzixuan_hw1/build",
+  "command": "C:\\Users\\35340\\Downloads\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\algebra.obj -c C:\\Users\\35340\\Desktop\\x-lab\\my_project\\huangzixuan_hw1\\src\\algebra.c",
+  "file": "C:/Users/35340/Desktop/x-lab/my_project/huangzixuan_hw1/src/algebra.c",
+  "output": "CMakeFiles/main.dir/src/algebra.obj"
+},
+{
+  "directory": "C:/Users/35340/Desktop/x-lab/my_project/huangzixuan_hw1/build",
+  "command": "C:\\Users\\35340\\Downloads\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\main.obj -c C:\\Users\\35340\\Desktop\\x-lab\\my_project\\huangzixuan_hw1\\src\\main.c",
+  "file": "C:/Users/35340/Desktop/x-lab/my_project/huangzixuan_hw1/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.obj"
+}
+]
